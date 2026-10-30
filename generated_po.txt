@@ -1,0 +1,66 @@
+
+============================================================
+                    PURCHASE ORDER
+============================================================
+
+PO Number: PO-AUTO-001
+
+------------------------------------------------------------
+PROCUREMENT DETAILS
+------------------------------------------------------------
+
+Request:
+We need 10 laptops for our office
+
+Quantity:
+10
+
+------------------------------------------------------------
+VENDOR DETAILS
+------------------------------------------------------------
+
+Vendor:
+TechSource Solutions
+
+Vendor Rating:
+4.7/5
+
+Expected Delivery:
+7 days
+
+Reliability:
+95%
+
+------------------------------------------------------------
+FINANCIAL DETAILS
+------------------------------------------------------------
+
+Approved Budget:
+₹80,000.00
+
+Estimated Unit Price:
+₹50,000.00
+
+Estimated Total:
+₹500,000.00
+
+Budget Status:
+NON-COMPLIANT
+
+------------------------------------------------------------
+WORKFLOW
+------------------------------------------------------------
+
+Decision:
+ESCALATE
+
+Approval Required:
+YES
+
+Route:
+Finance + Procurement Manager
+
+Reason:
+Procurement exceeds the approved budget.
+
+============================================================
